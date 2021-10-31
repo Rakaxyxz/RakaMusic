@@ -1,6 +1,5 @@
 <p align="center"><a href="https://t.me/RaxsMusic"> <img src=https://telegra.ph/file/2d3d740fcc56928277ae9.gif>
   </a></p>
-<p align="center"><a href="https://t.me/VeezMusicBot"><img src="https://github.com/levina-lab/VeezMusic/raw/main/etc/veezlogo.png"></a></p>
 <p align="center">
     <br><b>Veez Music is a telegram bot project that's allow you to play music on telegram voice chat group</b><br>
 </p>
