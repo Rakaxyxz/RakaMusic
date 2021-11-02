@@ -25,7 +25,7 @@
 
 ### 🧪 Get STRING_SESSION from below:
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@QueenArzoo/VCPlayBot)
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@RakaFiqiansyah/RAKASTRINGBOT#main.py)
 
 ### 🎖 History
 
